@@ -1,0 +1,6 @@
+creds/*
+.terraform/*
+terraform.*
+planfile
+.DS_Store
+planfile
